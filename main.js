@@ -50,14 +50,14 @@ const projects = [
     description: "A GUI application built with Python, Data Structures, and DBMS to collect and manage student feedback.",
     tags: ["Python", "MySQL", "Tkinter"],
     image: "assets/feedback.png",
-    code: "https://github.com/satyammahto"
+    code: "https://github.com/satyammahto/Mini-Project"
   },
   {
     title: "Personal Portfolio Website",
     description: "A responsive personal portfolio website designed using HTML, CSS, and JavaScript.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "assets/portfolio.png",
-    code: "https://github.com/satyammahto"
+    code: "https://github.com/satyammahto/portfolio"
   }
 ];
 
